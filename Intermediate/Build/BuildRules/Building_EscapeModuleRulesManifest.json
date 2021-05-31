@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/neilacantilado/Documents/Unreal Projects/Building_Escape/Source/Building_Escape/Building_Escape.Build.cs",
+		"/Users/neilacantilado/Documents/Unreal Projects/Building_Escape/Source/Building_Escape.Target.cs",
+		"/Users/neilacantilado/Documents/Unreal Projects/Building_Escape/Source/Building_EscapeEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
